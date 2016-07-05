@@ -1,18 +1,18 @@
-let thirdPlanet = "Earth"
 
-var ninthPlanet: String
+let thirdPlanet = "Earth"
+var s = "my string"
+
+var ninthPlanet : String
 ninthPlanet = "Pluto"
 
-let fifthPlanet: String = "Jupiter"
-// fifthPlanet is a constant of type ______
+let fifthPlanet : String = "Jupiter"
 
-let sixthPlanet: String = "Saturn"
-// sixthPlanet is a constant of type ______
+let sixthPlanet : String = "Saturn"
 
-let seventhPlanet = "Uranus"
-// seventhPlanet is a constant of type ______
+let seventhPlanet : String = "Uranus"
 
 let numberOfCountriesInAfrica = 54
 
 let numberOfMoonsOfSaturn = 62
+
 print("There are \(numberOfMoonsOfSaturn) moons orbiting \(sixthPlanet)")
